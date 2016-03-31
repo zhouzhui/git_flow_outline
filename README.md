@@ -8,7 +8,7 @@
 * working tree（工作目录）， stage/index（暂存区）， repository（版本库）
 * stage， commit， push
 * rebase， merge， pull
-* branch， master， HEAD
+* branch， master
 
 ### 工作目录， 暂存区， 版本库
 ![aa](https://jwiegley.github.io/git-from-the-bottom-up/images/lifecycle.png)
